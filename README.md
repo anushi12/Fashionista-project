@@ -47,11 +47,11 @@ Fashionista is built using the **MERN stack**, which includes:
 
 **HomePage**
 
-![homepage (1)](https://github.com/user-attachments/assets/eef5debf-5305-4195-a8f9-7ce27d5a0265)
+![Screenshot 2024-09-16 200539](https://github.com/user-attachments/assets/263f111d-539d-424d-b8f9-432cc5d34045)
 
 **Product Page**
 
-![homepage (2)](https://github.com/user-attachments/assets/f5dcd0df-9600-4b54-8846-f0b2359b5efc)
+![Screenshot 2024-09-16 200613](https://github.com/user-attachments/assets/5c483c41-8846-4139-8721-02b8733a6828)
 
 
-![homepage (3)](https://github.com/user-attachments/assets/abe20039-7799-4064-9050-7da10a7ba78f)
+![Screenshot 2024-09-16 200712](https://github.com/user-attachments/assets/5a98b03a-2cdc-4589-88bb-0d5ed446a5e5)
